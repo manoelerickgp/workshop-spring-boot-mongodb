@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 import java.io.Serializable;
 import java.util.Date;
 
-//@Component(value = "doc_comment")
 public class CommentDTO implements Serializable {
 
     private String texto;
